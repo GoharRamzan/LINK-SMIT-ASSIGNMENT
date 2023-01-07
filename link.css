@@ -1,0 +1,39 @@
+#home{
+    background-color: aqua;
+}
+#contact{
+    background-color: bisque;
+}
+#about{
+     background-color: grey;
+}
+#gallery{
+    background-color: lightslategray;
+}
+ul {
+   
+    display: flex;
+    
+  
+}
+ul li{
+    display: flex;
+    border: 3px solid black;
+    margin: 40px;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 100px;
+
+}
+.contactlink{
+    font-size: 25px;
+}
+
+.p{
+    font-size: 25px;
+
+}
+
+
+
+
